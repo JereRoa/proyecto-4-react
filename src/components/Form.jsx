@@ -23,6 +23,8 @@ export const Form = () => {
     }, [])
     return (
         <>
+        <h2>Envíanos tus dudas y/o reservas por el siguiente formulario</h2>
+        <p>Tus datos se almacenaran en nuestra base de datos y quedarás registrado en nuestro sistema</p>
             <input
                 type='string'
                 placeholder='Nombre'
