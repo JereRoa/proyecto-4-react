@@ -15,7 +15,7 @@ export const About = () => {
       <div>
         <Col>
         <Card style={{ width: '18rem' }}>
-          <Card.Img variant="top" src="public/Media/foto-3.jpg" />
+          <Card.Img variant="top" src="../Media/foto-3.jpg" />
           <Card.Body>
             <Card.Title>Compromiso</Card.Title>
             <Card.Text>
@@ -30,7 +30,7 @@ export const About = () => {
       <div>
       <Col>
         <Card style={{ width: '18rem' }}>
-          <Card.Img variant="top" src='public/Media/foto-4.jpg' />
+          <Card.Img variant="top" src='../Media/foto-4.jpg' />
           <Card.Body>
             <Card.Title>Experiencia</Card.Title>
             <Card.Text>
@@ -44,7 +44,7 @@ export const About = () => {
 
       <div>
         <Card style={{ width: '18rem' }}>
-          <Card.Img variant="top" src="public/Media/foto-comida-3.jpg" />
+          <Card.Img variant="top" src="../Media/foto-comida-3.jpg" />
           <Card.Body>
             <Card.Title>Dedicación</Card.Title>
             <Card.Text>
